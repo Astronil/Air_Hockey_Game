@@ -24,7 +24,7 @@ Follow these instructions to set up and run the game locally.
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/Astronil/final_project.git
+   git clone https://github.com/Astronil/Air_Hockey_Game.git
    cd final_project
    ```
 
